@@ -34,3 +34,5 @@ tramp
 .DS_Store
 public/system/*
 .sass-cache/
+config/database.yml
+.rvmrc
