@@ -26,6 +26,7 @@ end
 
 group :development do
   gem 'ZenTest'
+  gem 'heroku'
 end
 
 group :development, :test do
